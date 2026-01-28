@@ -1,3 +1,15 @@
+[submodule "engine"]
+	path = engine
+	url = https://github.com/Temple-RS/Engine-TS.git
 [submodule "client"]
 	path = client
+	url = https://github.com/Temple-RS/Client-TS.git
+[submodule "content"]
+	path = content
+	url = https://github.com/Temple-RS/Content.git
+[submodule "javaclient"]
+	path = javaclient
+	url = https://github.com/Temple-RS/Client-Java.git
+[submodule "webclient"]
+	path = webclient
 	url = https://github.com/Temple-RS/Client-TS.git
